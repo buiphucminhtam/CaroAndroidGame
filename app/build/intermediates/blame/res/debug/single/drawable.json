@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\MyProject\\GraphicCaroGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lib_cross.png",
+        "source": "D:\\MyProject\\GraphicCaroGame\\app\\src\\main\\res\\drawable\\lib_cross.png"
+    },
+    {
+        "merged": "D:\\MyProject\\GraphicCaroGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.png",
+        "source": "D:\\MyProject\\GraphicCaroGame\\app\\src\\main\\res\\drawable\\bg.png"
+    },
+    {
+        "merged": "D:\\MyProject\\GraphicCaroGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lib_bg.9.png",
+        "source": "D:\\MyProject\\GraphicCaroGame\\app\\src\\main\\res\\drawable\\lib_bg.9.png"
+    },
+    {
+        "merged": "D:\\MyProject\\GraphicCaroGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\lib_circle.png",
+        "source": "D:\\MyProject\\GraphicCaroGame\\app\\src\\main\\res\\drawable\\lib_circle.png"
+    }
+]
